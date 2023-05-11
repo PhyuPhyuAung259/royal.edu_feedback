@@ -1,0 +1,19 @@
+.content {
+  color: #334149;
+  background-color: #f8f8f8;
+  margin: 0%;
+  padding: 20px;
+  text-align: center;
+}
+
+.feedback_form {
+  text-align: left;
+  width: 30%;
+  margin-left: 40%;
+}
+
+.btn {
+  background-color: #6610f2;
+  color: #fff;
+  width: 100%;
+}
